@@ -109,7 +109,7 @@ Contactのタイトルが画面下にきたタイミングで、jQueryのfadeOut
 */
 .bg
 {
-  background: url("../img/bg (1).jpeg") center center repeat !important;
+  background: url("bg (1).jpeg") center center repeat !important;
   width: 100vw;
   height: 100vh;
   position: fixed;
