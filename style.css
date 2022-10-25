@@ -27,6 +27,11 @@ li
   list-style: none;
 }
 
+.map
+{
+  margin:50px;
+}
+
 /* h1タグ用 */
 .site-title
 {
